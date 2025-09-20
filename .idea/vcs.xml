@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/2/using-pytest/phonebook_pytest2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/FizzBuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/yatzi_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/yatzi_demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/4/using-test-doubles/fizzbuzz_dummy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/4/using-test-doubles/html_converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/4/using-test-doubles/online_shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/4/using-test-doubles/tire_pressure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/5/improving-test-coverage-and-maintainability/gilded_rose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/5/improving-test-coverage-and-maintainability/supermarket_receipt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/6/code-thats-difficult-to-test/ice_cream_forecasts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/2/demos/phonebook_pytest2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/3/demos/FizzBuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/3/demos/yatzi_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/3/demos/yatzi_demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/4/demos/fizzbuzz_dummy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/4/demos/html_converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/4/demos/online_shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/4/demos/tire_pressure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/5/demos/gilded_rose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/5/demos/supermarket_receipt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/6/demos/ice_cream_forecasts" vcs="Git" />
+  </component>
+</project>

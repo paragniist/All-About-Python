@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11fd1141-2b6f-4929-8763-6000ac212e8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/library_system/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/library_system/borrower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/library_system/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/library_system/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/using regex in python/using_regex_in_python1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codelab/using regex in python/using_regex_in_python2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/FizzBuzz/src/fizzbuzz_no_tdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/yatzi_demo/tests/test_yatzi_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/1.Entry-level/1.Python3-The big picture/demos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/1.Entry-level/2.Python3-Fundamentals/company.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/1.Entry-level/2.Python3-Fundamentals/dice_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/1.Entry-level/2.Python3-Fundamentals/employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/1.Entry-level/2.Python3-Fundamentals/exampleApi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/2.Working_with_files_in_Python3/archivingfiles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/2.Working_with_files_in_Python3/files/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/2.Working_with_files_in_Python3/finding_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/2.Working_with_files_in_Python3/reading_and_writting_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/2.Working_with_files_in_Python3/working_with_files_folder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/3.Working_with_Databases/sqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous/codelab/OOPS/object-oriented programming in python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/2/using-pytest/phonebook_pytest2/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/2/using-pytest/phonebook_pytest2/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/2/using-pytest/phonebook_pytest2/test/test_phonenumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/2/using-pytest/phonebook_pytest2/test/test_phonenumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/yatzi_demo2/src/yatzi_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/3/testing-by-developers-why-and-when/yatzi_demo2/src/yatzi_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/5/improving-test-coverage-and-maintainability/gilded_rose/src/gilded_rose.py" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous/codes/2.Practitioner-level/6.Testing_in_python3/5/improving-test-coverage-and-maintainability/gilded_rose/src/gilded_rose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/1.Python_3-The_big_picture/demos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/1.Python_3-The_big_picture/python-pros-and-cons-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/1.Python_3-The_big_picture/what-is-python-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/1.Python_3-The_big_picture/why-python-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/classes-and-objects-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/conditionals-and-imports-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/dictionaries-json-and-pip-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/functions-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/lists-and-loops-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/run-python-and-explore-data-types-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/1.Entry-level/2.Python_3-Fundamentals/working-with-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/accessing-class-attributes-and-methods-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/everything-is-an-object-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/implementing-class-inheritance-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/instantiating-custom-classes-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/managing-attribute-access-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/1.Classes_and_Object-oriented_Programming_in_Python3/using-data-classes-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/2.Working_with_files/archiving-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/2.Working_with_files/finding-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/2.Working_with_files/reading-and-writing-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/2.Working_with_files/working-with-files-and-folders-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-a-local-nosql-database-mongita-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-a-local-relational-database-sqlite-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-a-nosql-database-mongodb-and-pymongo-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-a-relational-database-postgresql-and-psycopg2-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-an-odm-mongoengine-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/3.Working_with_Databases/using-an-orm-sqlalchemy-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/4.Python3-Best Practices/documenting-your-project-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/4.Python3-Best Practices/following-python-style-guidelines-pep8-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/4.Python3-Best Practices/improve-your-code-with-type-checking-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/5.Developement_enviroments_and_Package_Management_in_Python3/beyond-pip-pipenv-and-poetry-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/5.Developement_enviroments_and_Package_Management_in_Python3/managing-python-packages-with-pip-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/5.Developement_enviroments_and_Package_Management_in_Python3/virtual-environments-and-project-dependencies-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/code-thats-difficult-to-test-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/improving-test-coverage-and-maintainability-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/testing-by-developers-why-and-when-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/unit-test-vocabulary-and-design-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/using-pytest-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/6.Testing_in_python3/using-test-doubles-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/7.Python3-Regex_Playbook/parsing-log-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/7.Python3-Regex_Playbook/replacing-transforming-and-cleaning-data-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/7.Python3-Regex_Playbook/searching-and-matching-patterns-in-files-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/7.Python3-Regex_Playbook/validating-user-input-and-data-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/7.Python3-Regex_Playbook/working-with-regular-expressions-in-python-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/8.Building_a_REST_API_with_Python3/creating-a-datamodel-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/8.Building_a_REST_API_with_Python3/make-content-accessible-through-an-api-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/8.Building_a_REST_API_with_Python3/reading-content-from-filesystem-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/2.Practitioner-level/8.Building_a_REST_API_with_Python3/starting-the-project-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/measuring-performance-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/optimizing-python-code-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/using-asynchronous-code-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/using-more-processes-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/using-more-threads-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/1.Python3_Performance/using-the-right-data-structures-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/2.Python3_Decorators/decorating-classes-and-class-decorators-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/2.Python3_Decorators/implementing-function-decorators-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/2.Python3_Decorators/using-advanced-decorator-workflows-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/2.Python3_Decorators/working-with-higher-order-functions-and-closures-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-chain-of-responsibility-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-command-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-interpreter-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-iterator-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-mediator-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-memento-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-null-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-observer-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-state-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-strategy-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/behavioral-patterns-visitor-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/course-summary-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/creational-patterns-abstract-factory-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/creational-patterns-builder-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/creational-patterns-factory-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/creational-patterns-prototype-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/creational-patterns-singleton-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/introduction-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-adapter-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-bridge-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-composite-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-decorator-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-facade-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-flyweight-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/3.Design_Patterns_in_Python_3/structural-patterns-proxy-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/analyzing-get-requests-and-the-response-object-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/authenticating-requests-for-secured-apis-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/course-introduction-and-the-requests-library-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/persisting-connections-with-cookies-and-sessions-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/providing-and-receiving-additional-data-with-headers-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/sending-data-to-the-server-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/4.Python_Request_playbook/working-with-redirection-and-timeouts-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/5.Debugging_in_Python/advanced-debugging-with-pdb-and-friends-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/5.Debugging_in_Python/advanced-visual-studio-code-debugging-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/5.Debugging_in_Python/debugging-python-code-at-the-command-line-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/5.Debugging_in_Python/debugging-python-code-with-visual-studio-code-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/5.Debugging_in_Python/using-pycharm-to-debug-your-python-code-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/6.Python_Collections/customizing-built-in-data-types-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/6.Python_Collections/improving-efficiency-with-advanced-dictionaries-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/6.Python_Collections/using-specialized-collection-classes-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscellaneous/slides/3.Advanced-level/6.Python_Collections/utilizing-built-in-containers-slides.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;paragniist&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/paragniist/All-About-Python.git&quot;,
+    &quot;accountId&quot;: &quot;b16bac72-64b6-4908-ab6c-319a3c5a6852&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32XmMj4HQ3Yjzsh8cmRMWWky3S5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.WeatherMapApi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading_and_writting_files.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91981/Documents/All-About-Python&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91981\Documents\All-About-Python\Miscellaneous\codelab\using regex in python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.reading_and_writting_files">
+    <configuration name="WeatherMapApi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="All-About-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Miscellaneous/codes/Entry-level/Python 3-Fundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Miscellaneous/codes/Entry-level/Python 3-Fundamentals/WeatherMapApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reading_and_writting_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="All-About-Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Miscellaneous/codes/Practitioner-level/Working with files in Python 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Miscellaneous/codes/Practitioner-level/Working with files in Python 3/reading_and_writting_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.reading_and_writting_files" />
+        <item itemvalue="Python.WeatherMapApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11fd1141-2b6f-4929-8763-6000ac212e8d" name="Changes" comment="" />
+      <created>1757575244618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757575244618</updated>
+    </task>
+    <servers />
+  </component>
+</project>
