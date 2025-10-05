@@ -24,20 +24,22 @@ class Employee:
         # logging.info("Someone accessed the salary attribute.")
         return self.salary
 
-    def set_salary(self, salary):
-        if salary < 1000:
-            raise ValueError('Minimum wage is $1000')
-        self.salary = salary
+    # def set_salary(self, salary):
+    #     if salary < 1000:
+    #         raise ValueError('Minimum wage is $1000')
+    #     self.salary = salary
 
 
 employee1 = Employee("Ji-Soo", 38, "developer", 1200)
 employee2 = Employee("Lauren", 44, "tester", 1000)
 
-employee1.set_salary(2000)
-print(employee1.get_salary())
+# employee1.set_salary(2000)
+# print(employee1.get_salary())
 
-# user_input = int(input("Input salary: "))
-# if user_input < 1000:
-#     raise ValueError('Minimum wage is $1000')
-# else:
-#     employee1.salary = user_input
+user_input = int(input("Input salary: "))
+if user_input < 1000:
+    raise ValueError('Minimum wage is $1000')
+else:
+    employee1.salary = user_input
+
+print(employee1.get_salary())

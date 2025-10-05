@@ -11,7 +11,11 @@ class Employee:
     def __str__(self):
         return f"{self.name} is {self.age} years old. Employee is a {self.position} with the salary of ${self.salary}"
 
+    # def info(self):
+    #      print(f"{self.name} is {self.age} years old. Employee is a {self.position} with the salary of ${self.salary}")
+
 
 employee1 = Employee("Ji-Soo", 38, "developer", 1200)
 employee2 = Employee("Lauren", 44, "tester", 1000)
+# employee1.info()
 print(str(employee1))
