@@ -1,0 +1,13 @@
+this is just a sample paragraph
+it has few lines to demonstrate the code examples.
+Can you please go over the following file list:
+
+project_report.pdf
+sales_summary.xls
+marketing_presentation.ppt
+design_document.docx
+financial_analysis.xlsx
+team_meeting.pptx
+user_manual.doc
+
+All these files contain important information.
