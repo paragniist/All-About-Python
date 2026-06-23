@@ -2,8 +2,13 @@ import time
 
 
 def heavy_work():
+    print('Do something')
+    print('Do something')
     for _ in range(100_000_000):
         pass
+    print('Do something')
+    print('Do something')
+
 
 start_time = time.time()
 heavy_work()
